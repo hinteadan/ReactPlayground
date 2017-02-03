@@ -1,0 +1,17 @@
+{
+  "name": "react-crash-course",
+  "version": "1.0.0",
+  "description": "React Crash Course",
+  "main": "app.js",
+  "dependencies": {
+    "babel-plugin-transform-react-jsx": "^6.8.0"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-react-jsx": "^6.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hintee",
+  "license": "ISC"
+}

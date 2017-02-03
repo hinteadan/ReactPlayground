@@ -1,0 +1,4 @@
+﻿// without options
+{
+  "plugins": [ "transform-react-jsx" ]
+}
