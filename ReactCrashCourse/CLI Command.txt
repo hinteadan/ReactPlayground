@@ -1,1 +1,3 @@
+https://babeljs.io/docs/usage/cli/
+
 babel --plugins transform-runtime *.jsx -d . -w
